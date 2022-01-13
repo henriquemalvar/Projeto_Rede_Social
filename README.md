@@ -8,4 +8,4 @@ O projeto tem como objetivo replicar o funcionamento de uma rede social basica, 
 C
 
 # Status do Projeto
-Concluido :heavy_check_mark:(2021)
+Concluido :heavy_check_mark: em 2021
